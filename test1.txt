@@ -1,3 +1,2 @@
-java 
-azra omar 
-kitap
+Java cok zor
+cok okumak lazim
